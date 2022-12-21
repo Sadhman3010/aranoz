@@ -1,0 +1,59 @@
+.banner-text {
+  padding-left:124px;
+  font-size: 20px;
+}
+
+.next-text {
+  margin-top: 200px;
+  font-size: 25px;
+  cursor: default;
+  text-align:right;
+  padding-right: 20px;
+}
+
+.sec-header {
+  text-align: center;
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.featured-text1 {
+ font-weight:bolder;
+ font-size: 40px;
+ cursor:default;
+}
+
+.featured-text2 {
+  font-weight:bolder;
+  font-size: 40px;
+  cursor:default;
+}
+
+.featured-text3 {
+  font-weight:bolder;
+  font-size: 40px;
+  cursor:default;
+}
+
+.featured-text4 {
+  font-weight:bolder;
+  font-size: 40px;
+  cursor:default;
+}
+
+.sec-header2 {
+  text-align: center;
+  font-size: 35px;
+  font-weight: bolder;
+  margin-top: 30px;
+}
+
+.sec-header3 {
+  text-align:right;
+  font-size:18px;
+  font-weight: 600;
+  margin-right: 60px;
+}
+
+
+

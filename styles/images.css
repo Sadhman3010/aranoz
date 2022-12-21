@@ -1,0 +1,22 @@
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  border: 5px solid #f8fbff;
+  background-color: #f8fbff;
+  margin-left: 160px;
+  
+}
+
+.row::after {
+  clear: both;
+  display: table;
+}
+
+.featured-img {
+  margin-top: 40px;
+}
+
+.photo {
+margin-left: 160px;
+}
